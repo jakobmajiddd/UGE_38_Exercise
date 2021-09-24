@@ -11,5 +11,8 @@ public class Main {
         System.out.println("Nikolaj har pillet her");
         System.out.println("Nikolaj piller her også");
 
+
+        System.out.println("DAVS");
+
     }
 }
